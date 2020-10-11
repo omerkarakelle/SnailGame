@@ -1,5 +1,5 @@
 # SnailGame
-This is my first game using pygame. I am new on programming so my code can be terrible. I used some pictures for background, snails etc. And these pictures are taken from https://www.flaticon.com/ 
+This is my first game using pygame. I am new on programming. Therefore, my code can be terrible. I used some pictures for background, snails etc. And these pictures are taken from https://www.flaticon.com/ 
 
 Some of those picture are attributed below: 
 
