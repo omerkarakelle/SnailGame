@@ -12,7 +12,8 @@ Some of those picture are attributed below:
 <div>Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/those-icons" title="Those Icons">Those Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-
-pip install pygame\n
-python jumpSnailJump.py\n
+<div>---------------------------------</div>
+<div>pip install pygame</div>
+<div>python jumpSnailJump.py</div>
+<div>---------------------------------</div>
 You may need to install sqlite3 'pip install pysqlite3' in case it does not work.
