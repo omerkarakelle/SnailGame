@@ -1,5 +1,5 @@
 # SnailGame
-This is my first game using pygame. I am new on programming. Therefore, my code can be terrible. I used some pictures for background, snails etc. And these pictures are taken from https://www.flaticon.com/ 
+This is my first game using pygame. I am new on programming. Therefore, my code can be terrible. I used some pictures for background and snail skins. These pictures are taken from https://www.flaticon.com/ 
 
 Some of those picture are attributed below: 
 
@@ -12,7 +12,7 @@ Some of those picture are attributed below:
 <div>Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/those-icons" title="Those Icons">Those Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-<div>---------------------------------</div>
+<div>---------How to play?----------</div>
 <div>pip install pygame</div>
 <div>python jumpSnailJump.py</div>
 <div>---------------------------------</div>
