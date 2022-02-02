@@ -17,5 +17,8 @@ Some of those picture are attributed below:
 <div>---------How to play?----------</div>
 <div>pip install pygame</div>
 <div>python jumpSnailJump.py</div>
+<div>--------------or-----------------</div>
+<div>pip3 install pygame</div>
+<div>python3 jumpSnailJump.py</div>
 <div>---------------------------------</div>
 You may need to install sqlite3 'pip install pysqlite3' in case it does not work.
