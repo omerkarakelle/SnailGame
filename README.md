@@ -1,5 +1,5 @@
 # JumpSnailJump
-JumpSnailJump is a game which you control a snail and make it reach the endpoint by jumping from block to block and avoiding to fall, as it can be seen from the name of the game.
+JumpSnailJump is a game which you control a snail and make it reach the endpoint by jumping from block to block and avoiding falling, as it can be seen from the name of the game.
 
 This is my first game using pygame. I am new on programming. Therefore, my code can be terrible. I used some pictures for background and snail skins. These pictures are taken from https://www.flaticon.com/ 
 
